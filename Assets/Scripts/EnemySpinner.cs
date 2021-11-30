@@ -1,0 +1,15 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class EnemySpinner : MonoBehaviour
+{
+    // Update is called once per frame
+    void Update()
+    {
+        // Rotate the game object that this script is attached to by 15 in the X axis, 30 in the Y axis and 45 in the Z axis, multiplied by deltaTime in order to make it every second instead of every frame.
+
+        transform.Rotate(new Vector3(90, 150, 300) * Time.deltaTime);
+
+    }
+}
