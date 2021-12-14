@@ -1,5 +1,13 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
+<<<<<<< HEAD:Assets/Play button.png.meta
 guid: 79279c3be7682864aad8acf2f9033152
+=======
+guid: 615c6e6bde49bb2418a31996e837a7b1
+>>>>>>> 9a7d4fae48d5fce2cdf20c77ce5deb6c1a5e9aa2:Assets/Good Job.png.meta
+=======
+guid: 79279c3be7682864aad8acf2f9033152
+>>>>>>> 9a7d4fae48d5fce2cdf20c77ce5deb6c1a5e9aa2
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
