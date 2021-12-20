@@ -73,7 +73,7 @@ public class PlayerController : MonoBehaviour
 		//Completes the game when the specified amount of items have been collected
 		if (count >= 21)
 		{
-			SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 2);
+			SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
 		}
 	}
 }

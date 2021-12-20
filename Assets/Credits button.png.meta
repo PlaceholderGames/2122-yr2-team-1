@@ -1,13 +1,5 @@
 fileFormatVersion: 2
-<<<<<<< HEAD
-<<<<<<< HEAD:Assets/Credits button.png.meta
 guid: 6f06b9dbd777ed04ea90d7eb250e7e11
-=======
-guid: 2f3eb6b86cd28c646bd9c0513f83ed08
->>>>>>> 9a7d4fae48d5fce2cdf20c77ce5deb6c1a5e9aa2:Assets/white screen.png.meta
-=======
-guid: 6f06b9dbd777ed04ea90d7eb250e7e11
->>>>>>> 9a7d4fae48d5fce2cdf20c77ce5deb6c1a5e9aa2
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -41,15 +33,7 @@ TextureImporter:
   textureSettings:
     serializedVersion: 2
     filterMode: 1
-<<<<<<< HEAD
-<<<<<<< HEAD:Assets/Credits button.png.meta
     aniso: 2
-=======
-    aniso: 1
->>>>>>> 9a7d4fae48d5fce2cdf20c77ce5deb6c1a5e9aa2:Assets/white screen.png.meta
-=======
-    aniso: 2
->>>>>>> 9a7d4fae48d5fce2cdf20c77ce5deb6c1a5e9aa2
     mipBias: 0
     wrapU: 1
     wrapV: 1
